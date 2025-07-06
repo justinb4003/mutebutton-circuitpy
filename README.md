@@ -12,6 +12,7 @@ The board must be flashed with CircuitPython for this code to work. The firmware
 You'll then want some kind of momentary push button switch. Wire one leg of the button to ground and the other to the D7 pin on the Xiao RP-2040.
 ![xiao-mute](https://github.com/user-attachments/assets/8e199eb9-941e-478a-920d-380dc3132668)
 
+![image](https://github.com/user-attachments/assets/e08c1a99-7914-419f-ab83-d86ab7d4c8a5)
 
 # Software Installation
 Instructions on how to flash the firmware are above, but, essentially hook the board to your computer via USB, hold down the ```boot``` button then press the ```reset``` button. The board will then appear as a mountable drive. Mount the drive on your computer and copy the ```uf2``` firmware file to it. Once completed the board will reset and now appear as a ```CIRCUITPY``` disk that you can mount.
