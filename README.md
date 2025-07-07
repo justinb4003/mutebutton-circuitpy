@@ -7,7 +7,7 @@ toggles your mute status in Microsoft Teams.
 # Hardware
 This is built on a Seeeduino Xiao RP2040. https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
 
-The board must be flashed with CircuitPython for this code to work. The firmware version used to build this was 9.2.3. You can download the firmware from here: https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html
+The board must be flashed with CircuitPython for this code to work. The firmware version used to build this was 9.2.3. You can download the firmware from here: https://circuitpython.org/board/seeeduino_xiao_rp2040/
 
 You'll then want some kind of momentary push button switch. Wire one leg of the button to ground and the other to the D7 pin on the Xiao RP-2040.
 ![xiao-mute](https://github.com/user-attachments/assets/8e199eb9-941e-478a-920d-380dc3132668)
