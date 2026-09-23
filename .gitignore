@@ -1,0 +1,6 @@
+# CircuitPython firmware images -- large binaries, re-downloadable from
+# https://downloads.circuitpython.org/bin/seeeduino_xiao_rp2040/en_US/
+# Checksums for what we flashed are tracked in firmware/SHA256SUMS.
+firmware/*.uf2
+
+.vscode/
