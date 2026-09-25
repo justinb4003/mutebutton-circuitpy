@@ -38,7 +38,11 @@ to ground and the other to the button pin for your board (```D7``` on the XIAO,
 ```GP7``` on the RP2040-Zero). No pull-up resistor is needed -- the code turns on
 the chip's internal one.
 
+### Xiao Pins
 ![xiao-mute](https://github.com/user-attachments/assets/8e199eb9-941e-478a-920d-380dc3132668)
+
+### Waveshare Pins
+![waveshare-mute](https://github.com/user-attachments/assets/54cf614d-b60a-4a6b-bc7f-4d6464763d8a)
 
 ![image](https://github.com/user-attachments/assets/e08c1a99-7914-419f-ab83-d86ab7d4c8a5)
 
