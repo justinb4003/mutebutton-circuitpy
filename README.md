@@ -46,6 +46,9 @@ the chip's internal one.
 
 ![image](https://github.com/user-attachments/assets/e08c1a99-7914-419f-ab83-d86ab7d4c8a5)
 
+Given that there's no significant current at all something as small as 24AWG works well here. You can thread it through the holes on the board, bend them around, and solder it down from both sides. You can use some side snips to trim up any solder blobs sticking out the bottom of the chip, or any uglies on the top side. On the button side you could crimp the wire into a female connector that goes into your micro-switch, or just run the wire through the hole in the switch, bend it kind of like you did around the board, and solder it in.
+
+
 ## Status light
 
 The onboard light is only a debugging aid, but it's a handy one -- you can test
